@@ -24,7 +24,7 @@ async function handleSubmit() {
 
     try {
         // 1. Fetch the JSON file
-        const response = await fetch('./top_5_genres.json');
+        const response = await fetch('./static/top_5_genres.json');
         if (!response.ok) throw new Error('Could not load JSON file');
         const bookData = await response.json();
 
