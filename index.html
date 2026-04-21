@@ -12,9 +12,34 @@
         <h1>Book Finder</h1>
         
         <div class="input-section">
-            <label id="prompt" for="userInput"></label>
-            <input type="text" id="userInput" autocomplete="off">
+            
+            <label for="genre">Choose a genre</label>
+                <select name="genres" id="genres">
+                <option value="biography">Biography</option>
+                <option value="children">Children</option>
+                <option value="comics">Comics</option>
+                <option value="crime">Crime</option>
+                <option value="fantasy">Fantasy</option>
+                <option value="fiction">Fiction</option>
+                <option value="graphic">Graphic</option>
+                <option value="historical fiction">Historical Fiction</option>
+                <option value="history">History</option>
+                <option value="mystery">Mystery</option>
+                <option value="non-fiction">Non-fiction</option>
+                <option value="paranormal">Paranormal</option>
+                <option value="poetry">Poetry</option>
+                <option value="romance">Tomance</option>
+                <option value="thriller">Thriller</option>
+                <option value="volvo">Volvo</option>
+                <option value="young-adult">Young Adult</option>
+            </select>
+            
+            <br><br>
+            <!-- <label id="prompt" for="userInput"></label>
+            <input type="text" id="userInput" autocomplete="off"> -->
             <button id="submitBtn">Submit</button>
+
+            
         </div>
  
         <div id="responseList" class="response-list"></div>

@@ -1,0 +1,514 @@
+{
+  "fiction": [
+    {
+      "book_id": "31675691",
+      "title": "Poet Of The Wrong Generation",
+      "rating": 4.91,
+      "ratings_count": 425
+    },
+    {
+      "book_id": "20675319",
+      "title": "Bird of the Soul",
+      "rating": 4.88,
+      "ratings_count": 229
+    },
+    {
+      "book_id": "22064556",
+      "title": "Auf Wiedersehen, Sweetheart",
+      "rating": 4.88,
+      "ratings_count": 169
+    },
+    {
+      "book_id": "12278",
+      "title": "The Grove Centenary Editions of Samuel Beckett Boxed Set: Contains Novels I and II of Samuel Beckett, The Dramatic Works of Samuel Beckett, and The Poems, Short Fiction and Critcism of Samuel Beckett",
+      "rating": 4.88,
+      "ratings_count": 105
+    },
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    }
+  ],
+  "fantasy": [
+    {
+      "book_id": "24885561",
+      "title": "Keeper of the Lost Cities / Exile / Everblaze (Keeper of the Lost Cities #1-3)",
+      "rating": 4.91,
+      "ratings_count": 341
+    },
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "22079533",
+      "title": "Gombnyomásra 1. (Gombnyomásra, #1)",
+      "rating": 4.84,
+      "ratings_count": 154
+    },
+    {
+      "book_id": "29995315",
+      "title": "The Lunar Chronicles Boxed Set: Cinder, Scarlet, Cress, Fairest, Winter",
+      "rating": 4.83,
+      "ratings_count": 156
+    },
+    {
+      "book_id": "26245394",
+      "title": "Filhos da Lua: O Legado",
+      "rating": 4.83,
+      "ratings_count": 137
+    }
+  ],
+  "paranormal": [
+    {
+      "book_id": "24885561",
+      "title": "Keeper of the Lost Cities / Exile / Everblaze (Keeper of the Lost Cities #1-3)",
+      "rating": 4.91,
+      "ratings_count": 341
+    },
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "22079533",
+      "title": "Gombnyomásra 1. (Gombnyomásra, #1)",
+      "rating": 4.84,
+      "ratings_count": 154
+    },
+    {
+      "book_id": "29995315",
+      "title": "The Lunar Chronicles Boxed Set: Cinder, Scarlet, Cress, Fairest, Winter",
+      "rating": 4.83,
+      "ratings_count": 156
+    },
+    {
+      "book_id": "26245394",
+      "title": "Filhos da Lua: O Legado",
+      "rating": 4.83,
+      "ratings_count": 137
+    }
+  ],
+  "mystery": [
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "21847754",
+      "title": "The Book of Joshua II - Believe (Gems and Gents, #3",
+      "rating": 4.86,
+      "ratings_count": 166
+    },
+    {
+      "book_id": "24918756",
+      "title": "Who Wants That Perfect Love Story Anyway 3",
+      "rating": 4.84,
+      "ratings_count": 391
+    },
+    {
+      "book_id": "15649",
+      "title": "Inferno",
+      "rating": 4.84,
+      "ratings_count": 148
+    },
+    {
+      "book_id": "25036851",
+      "title": "Who Wants That Perfect Love Story Anyway 3: The FAM",
+      "rating": 4.84,
+      "ratings_count": 116
+    }
+  ],
+  "thriller": [
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "21847754",
+      "title": "The Book of Joshua II - Believe (Gems and Gents, #3",
+      "rating": 4.86,
+      "ratings_count": 166
+    },
+    {
+      "book_id": "24918756",
+      "title": "Who Wants That Perfect Love Story Anyway 3",
+      "rating": 4.84,
+      "ratings_count": 391
+    },
+    {
+      "book_id": "15649",
+      "title": "Inferno",
+      "rating": 4.84,
+      "ratings_count": 148
+    },
+    {
+      "book_id": "25036851",
+      "title": "Who Wants That Perfect Love Story Anyway 3: The FAM",
+      "rating": 4.84,
+      "ratings_count": 116
+    }
+  ],
+  "crime": [
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "21847754",
+      "title": "The Book of Joshua II - Believe (Gems and Gents, #3",
+      "rating": 4.86,
+      "ratings_count": 166
+    },
+    {
+      "book_id": "24918756",
+      "title": "Who Wants That Perfect Love Story Anyway 3",
+      "rating": 4.84,
+      "ratings_count": 391
+    },
+    {
+      "book_id": "15649",
+      "title": "Inferno",
+      "rating": 4.84,
+      "ratings_count": 148
+    },
+    {
+      "book_id": "25036851",
+      "title": "Who Wants That Perfect Love Story Anyway 3: The FAM",
+      "rating": 4.84,
+      "ratings_count": 116
+    }
+  ],
+  "poetry": [
+    {
+      "book_id": "20761282",
+      "title": "You Must Buy Your Wife At Least As Much Jewelry As You Buy Your Horse and Other Poems and Observations Humorous and Otherwise from the Life on the Range",
+      "rating": 4.95,
+      "ratings_count": 147
+    },
+    {
+      "book_id": "31675691",
+      "title": "Poet Of The Wrong Generation",
+      "rating": 4.91,
+      "ratings_count": 425
+    },
+    {
+      "book_id": "12278",
+      "title": "The Grove Centenary Editions of Samuel Beckett Boxed Set: Contains Novels I and II of Samuel Beckett, The Dramatic Works of Samuel Beckett, and The Poems, Short Fiction and Critcism of Samuel Beckett",
+      "rating": 4.88,
+      "ratings_count": 105
+    },
+    {
+      "book_id": "12237098",
+      "title": "Koncert za 1001 bubanj",
+      "rating": 4.87,
+      "ratings_count": 112
+    },
+    {
+      "book_id": "12143095",
+      "title": "Tako zamišljam nebo",
+      "rating": 4.81,
+      "ratings_count": 100
+    }
+  ],
+  "romance": [
+    {
+      "book_id": "31675691",
+      "title": "Poet Of The Wrong Generation",
+      "rating": 4.91,
+      "ratings_count": 425
+    },
+    {
+      "book_id": "33299920",
+      "title": "A Charm of Finches (Venery, #2)",
+      "rating": 4.91,
+      "ratings_count": 137
+    },
+    {
+      "book_id": "33249735",
+      "title": "Caged Love 5: The Finale",
+      "rating": 4.89,
+      "ratings_count": 109
+    },
+    {
+      "book_id": "22064556",
+      "title": "Auf Wiedersehen, Sweetheart",
+      "rating": 4.88,
+      "ratings_count": 169
+    },
+    {
+      "book_id": "33672122",
+      "title": "Rock Chick (8 Book Series)",
+      "rating": 4.88,
+      "ratings_count": 159
+    }
+  ],
+  "history": [
+    {
+      "book_id": "22537264",
+      "title": "And Justice for All: The Quest for Concord, Volume 1: The Problem Defined",
+      "rating": 4.89,
+      "ratings_count": 104
+    },
+    {
+      "book_id": "22064556",
+      "title": "Auf Wiedersehen, Sweetheart",
+      "rating": 4.88,
+      "ratings_count": 169
+    },
+    {
+      "book_id": "481525",
+      "title": "Paris Talks: Addresses Given by Abdul-Baha in 1911",
+      "rating": 4.84,
+      "ratings_count": 155
+    },
+    {
+      "book_id": "15649",
+      "title": "Inferno",
+      "rating": 4.84,
+      "ratings_count": 148
+    },
+    {
+      "book_id": "8432716",
+      "title": "Patrick O'Brian's Aubrey/Maturin Series",
+      "rating": 4.83,
+      "ratings_count": 420
+    }
+  ],
+  "historical fiction": [
+    {
+      "book_id": "22537264",
+      "title": "And Justice for All: The Quest for Concord, Volume 1: The Problem Defined",
+      "rating": 4.89,
+      "ratings_count": 104
+    },
+    {
+      "book_id": "22064556",
+      "title": "Auf Wiedersehen, Sweetheart",
+      "rating": 4.88,
+      "ratings_count": 169
+    },
+    {
+      "book_id": "481525",
+      "title": "Paris Talks: Addresses Given by Abdul-Baha in 1911",
+      "rating": 4.84,
+      "ratings_count": 155
+    },
+    {
+      "book_id": "15649",
+      "title": "Inferno",
+      "rating": 4.84,
+      "ratings_count": 148
+    },
+    {
+      "book_id": "8432716",
+      "title": "Patrick O'Brian's Aubrey/Maturin Series",
+      "rating": 4.83,
+      "ratings_count": 420
+    }
+  ],
+  "biography": [
+    {
+      "book_id": "22537264",
+      "title": "And Justice for All: The Quest for Concord, Volume 1: The Problem Defined",
+      "rating": 4.89,
+      "ratings_count": 104
+    },
+    {
+      "book_id": "22064556",
+      "title": "Auf Wiedersehen, Sweetheart",
+      "rating": 4.88,
+      "ratings_count": 169
+    },
+    {
+      "book_id": "481525",
+      "title": "Paris Talks: Addresses Given by Abdul-Baha in 1911",
+      "rating": 4.84,
+      "ratings_count": 155
+    },
+    {
+      "book_id": "15649",
+      "title": "Inferno",
+      "rating": 4.84,
+      "ratings_count": 148
+    },
+    {
+      "book_id": "8432716",
+      "title": "Patrick O'Brian's Aubrey/Maturin Series",
+      "rating": 4.83,
+      "ratings_count": 420
+    }
+  ],
+  "non-fiction": [
+    {
+      "book_id": "33596516",
+      "title": "GraceLaced: Discovering Timeless Truths Through Seasons of the Heart",
+      "rating": 4.92,
+      "ratings_count": 156
+    },
+    {
+      "book_id": "18147705",
+      "title": "Change: Realizing Your Greatest Potential",
+      "rating": 4.9,
+      "ratings_count": 161
+    },
+    {
+      "book_id": "28368194",
+      "title": "2016 Yearbook of Jehovah's Witnesses",
+      "rating": 4.89,
+      "ratings_count": 105
+    },
+    {
+      "book_id": "22537264",
+      "title": "And Justice for All: The Quest for Concord, Volume 1: The Problem Defined",
+      "rating": 4.89,
+      "ratings_count": 104
+    },
+    {
+      "book_id": "20675319",
+      "title": "Bird of the Soul",
+      "rating": 4.88,
+      "ratings_count": 229
+    }
+  ],
+  "comics": [
+    {
+      "book_id": "10151926",
+      "title": "Hetalia",
+      "rating": 4.91,
+      "ratings_count": 123
+    },
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "24812",
+      "title": "The Complete Calvin and Hobbes",
+      "rating": 4.82,
+      "ratings_count": 29289
+    },
+    {
+      "book_id": "15802147",
+      "title": "The Complete Calvin and Hobbes",
+      "rating": 4.82,
+      "ratings_count": 1062
+    },
+    {
+      "book_id": "15041842",
+      "title": "The Sandman Volumes 1-10",
+      "rating": 4.82,
+      "ratings_count": 450
+    }
+  ],
+  "graphic": [
+    {
+      "book_id": "10151926",
+      "title": "Hetalia",
+      "rating": 4.91,
+      "ratings_count": 123
+    },
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "24812",
+      "title": "The Complete Calvin and Hobbes",
+      "rating": 4.82,
+      "ratings_count": 29289
+    },
+    {
+      "book_id": "15802147",
+      "title": "The Complete Calvin and Hobbes",
+      "rating": 4.82,
+      "ratings_count": 1062
+    },
+    {
+      "book_id": "15041842",
+      "title": "The Sandman Volumes 1-10",
+      "rating": 4.82,
+      "ratings_count": 450
+    }
+  ],
+  "children": [
+    {
+      "book_id": "20675319",
+      "title": "Bird of the Soul",
+      "rating": 4.88,
+      "ratings_count": 229
+    },
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "24812",
+      "title": "The Complete Calvin and Hobbes",
+      "rating": 4.82,
+      "ratings_count": 29289
+    },
+    {
+      "book_id": "15802147",
+      "title": "The Complete Calvin and Hobbes",
+      "rating": 4.82,
+      "ratings_count": 1062
+    },
+    {
+      "book_id": "14742524",
+      "title": "Wheel-Mouse vs All The Crazy Robots",
+      "rating": 4.82,
+      "ratings_count": 181
+    }
+  ],
+  "young-adult": [
+    {
+      "book_id": "24885561",
+      "title": "Keeper of the Lost Cities / Exile / Everblaze (Keeper of the Lost Cities #1-3)",
+      "rating": 4.91,
+      "ratings_count": 341
+    },
+    {
+      "book_id": "32469599",
+      "title": "Harry Potter Illustrated Box Set",
+      "rating": 4.87,
+      "ratings_count": 196
+    },
+    {
+      "book_id": "34092698",
+      "title": "The Low of Love (Wayward Love, #2)",
+      "rating": 4.86,
+      "ratings_count": 423
+    },
+    {
+      "book_id": "13375406",
+      "title": "The Heart Rate of a Mouse",
+      "rating": 4.85,
+      "ratings_count": 180
+    },
+    {
+      "book_id": "34993434",
+      "title": "Life After Legend",
+      "rating": 4.84,
+      "ratings_count": 110
+    }
+  ]
+}
